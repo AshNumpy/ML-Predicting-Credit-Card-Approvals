@@ -7,9 +7,7 @@ We have some datas thats about customer who has want to take credit card.
 The aim of the project is predict if an individual's application for a credit card will be accepted.  
 
 ### Requirements:
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&usqp=CAU' width='100' height='100'>
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU' width='100' height='100'>
-<img src='https://anderfernandez.com/wp-content/uploads/2021/10/Tutorial-Sklearn.jpg' width='150' height='100'>  
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&usqp=CAU' width='100' height='100'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU' width='100' height='100'> <img src='https://anderfernandez.com/wp-content/uploads/2021/10/Tutorial-Sklearn.jpg' width='150' height='100'>  
   
 - You should run the `packages.py` python file on *Packages* file.  
     - **Packages:**  
